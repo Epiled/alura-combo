@@ -31,6 +31,19 @@ body {
     text-align: center;
 }
 
+.responsivo {
+    width: 100%;
+    height: auto;
+}
+
+.responsivo--alura {
+    max-width: 35.6rem;
+}
+
+.responsivo--dispositivos {
+    max-width: 33.9rem;
+}
+
 .container {
     height: 100vh;
     display: grid;
