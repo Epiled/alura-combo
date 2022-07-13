@@ -1,0 +1,25 @@
+{
+    "short_name": "Alura HTML/CSS",
+    "name": "Alura HTML/CSS",
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#0254BA",
+    "them-color": "#0254BA",
+    "background_color": "#000000",
+    "background-color": "#000000",
+    "description": "Projeto final do curso, com PWA",
+    "icons": [
+        {
+            "src": "assets/img/pwa/alura_lingua_icone_512.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "any"
+        },
+        {
+            "src": "assets/img/pwa/maskable_icon.png",
+            "type": "image/png",
+            "sizes": "192x192",
+            "purpose": "maskable"
+        }
+    ]
+}
