@@ -88,14 +88,18 @@ body {
 }
 
 .container__botao:hover {
-    background-color: var(--botao-cinza-claro);
+    background-color: var(--botao-azul-efeito);
     color: var(--cor-de-fundo);
     cursor: pointer;
 }
 
 .botao_secundario {
-    background-color: #0c0c0c80;
+    background-color: var(--botao-cinza-claro);
     border: .2rem solid var(--branco-principal);
+}
+
+.botao_secundario:hover {
+    background: var(--botao-azul-efeito);
 }
 
 .descricao__titulo {
