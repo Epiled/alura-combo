@@ -1,6 +1,6 @@
 const cacheName = 'Alura HTML/CSS';
 
-const versao = 2;
+const versao = 8;
 
 self.addEventListener('install', function(event){
     event.waitUntil(
@@ -13,15 +13,15 @@ self.addEventListener('install', function(event){
                 'https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Overpass:wght@400;600;700;800;900&display=swap',
 
                 './assets/img/Background.webp',
-                './assets/img/celular.png',
-                './assets/img/Combo.webp',
-                './assets/img/computador.png',
+                './assets/img/celular.webp',
+                './assets/img/Combo.svg',
+                './assets/img/computador.webp',
                 './assets/img/favicon.png',
                 './assets/img/Logo.webp',
                 './assets/img/Notebook.webp',
                 './assets/img/Plataformas.webp',
                 './assets/img/Telas.webp',
-                './assets/img/tv.png',
+                './assets/img/tv.webp',
 
                 './assets/img/pwa/app_icon.png',
                 './assets/img/pwa/maskable_icon.png',
