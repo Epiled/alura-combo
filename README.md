@@ -11,17 +11,17 @@
   com o objetivo de extrair o máximo de perfomance da página, além disso foi implementado uma PWA.
 </p>
 
-![Badge](https://img.shields.io/github/last-commit/Epiled/HTML-e-CSS-praticando-HTMLCSS?style=for-the-badge)
-![Badge](https://img.shields.io/github/languages/code-size/Epiled/HTML-e-CSS-praticando-HTMLCSS?style=for-the-badge)
-![Badge](https://img.shields.io/github/languages/count/Epiled/HTML-e-CSS-praticando-HTMLCSS?style=for-the-badge)
+![Badge](https://img.shields.io/github/last-commit/Epiled/alura-combo?style=for-the-badge)
+![Badge](https://img.shields.io/github/languages/code-size/Epiled/alura-combo?style=for-the-badge)
+![Badge](https://img.shields.io/github/languages/count/Epiled/alura-combo?style=for-the-badge)
 ![Bagde](https://img.shields.io/badge/repo%20status-Beta-cyan?style=for-the-badge)
-![Bagde](https://img.shields.io/github/v/release/epiled/HTML-e-CSS-praticando-HTMLCSS?style=for-the-badge)
-![Bagde](https://img.shields.io/github/license/Epiled/HTML-e-CSS-praticando-HTMLCSS?style=for-the-badge)
+![Bagde](https://img.shields.io/github/v/release/epiled/alura-combo?style=for-the-badge)
+![Bagde](https://img.shields.io/github/license/Epiled/alura-combo?style=for-the-badge)
 
 ![Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Badge](https://img.shields.io/badge/-JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
+![Badge](https://img.shields.io/badge/-PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
 
 <h2> 📑 Tabela de Conteúdos </h2>
 
@@ -39,7 +39,7 @@
 <h2 id="demonstracao"> 👀 Demonstração </h2>
 
 <p>No link abaixo você pode ver a página no ar e rodar seus próprios teste de perfomance ou desempenho</p>
-<p>Alura Combo+: <a href="https://epiled.github.io/HTML-e-CSS-praticando-HTMLCSS/">https://epiled.github.io/HTML-e-CSS-praticando-HTMLCSS/</a></p>
+<p>Alura Combo+: <a href="https://epiled.github.io/alura-combo/">epiled.github.io/alura-combo/</a></p>
 
 ![desktop-htmlcss](https://user-images.githubusercontent.com/55258483/178809751-12222820-2f25-4228-84de-a5c452e5e22f.gif)
 ![mobile-htmlcss](https://user-images.githubusercontent.com/55258483/178809811-9ff760ee-7aeb-4ded-a2e2-bf7f57cf3592.gif)
@@ -51,7 +51,8 @@
 <h2 id="instalacao"> ⚙ Instalação </h2>
 
 ```
-1. git clone https://github.com/Epiled/HTML-e-CSS-praticando-HTMLCSS.git
+1. git clone https://github.com/Epiled/alura-combo.git
+2. cd alura-combo
 ```
 
 <h2 id="como-usar"> 👩‍🏫 Como usar </h2>
@@ -67,6 +68,7 @@ As seguintes tecnologias foram usadas na construção deste projeto:
   <li><a href="https://www.w3schools.com/html/default.asp" target="_blank">HTML5</a></li>
   <li><a href="https://www.w3schools.com/css/default.asp" target="_blank">CSS3</a></li>
   <li><a href="https://www.w3schools.com/js/default.asp" target="_blank">Javascript</a></li>
+  <li><a href="https://web.dev/progressive-web-apps/" target="_blank">PWA</a></li>
 </ul>
 
 <h2 id="autor"> 👨‍💻 Autor </h2>
